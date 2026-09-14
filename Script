@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://www.astatine.vip/scripts/all_in_one.lua"))({"MTA1OTc5Mzk1MDUzOTUyMjA4OA"})
+loadstring(game:HttpGet("https://www.astatine.vip/scripts/all_in_one.lua"))
